@@ -4,7 +4,7 @@ An AI-powered health information assistant that helps users understand their sym
 
 > **Not medical advice.** HealthBridge provides general health information only. Call 999 for emergencies.
 
-**[Live Demo](https://healthbridge-app.vercel.app)** · Built by [Gian Pierre](https://github.com/gianlpz)
+**[Live Demo](https://healthbridge-khaki.vercel.app)** · Built by [Gian Pierre](https://github.com/gianlpz)
 
 ![HealthBridge Screenshot](public/screenshot.png)
 
